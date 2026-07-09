@@ -1,0 +1,65 @@
+# --------------------------
+# Build Artifacts (Maven/Gradle)
+# --------------------------
+target/
+build/
+*.jar
+*.war
+*.ear
+*.nar
+*.class
+
+# --------------------------
+# IDE-Specific Files
+# --------------------------
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.launch
+bin/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --------------------------
+# Dependency Management
+# --------------------------
+.gradle/
+.m2/
+node_modules/
+
+# --------------------------
+# OS-Specific Files
+# --------------------------
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+*.swo
+*~
+
+# --------------------------
+# Logs & Environment
+# --------------------------
+logs/
+*.log
+*.tmp
+*.bak
+.env
+.env.local   
