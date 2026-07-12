@@ -6,12 +6,13 @@ public class VarNdata{
             Character pCategory = 'A';
             String tech = "Nano-Tech";
             int missile_count = 100;
+            boolean isFalse = true;
 
             // printing a variables data oonly
             System.out.println("Armor Name: " + armorname );
 
             // now printing the all vars using Object ( which is a parent class of all data types in JAVA)
-            Object[] data = { armorname, version, weight, pCategory, tech, missile_count};
+            Object[] data = { armorname, version, weight, pCategory, tech, missile_count, isFalse};
             for (int i = 0; i < data.length; i++) {
                   System.out.println(data[i]);
             }
