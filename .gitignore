@@ -63,3 +63,16 @@ logs/
 *.bak
 .env
 .env.local   
+
+
+# others
+.c++
+.cpp
+.zip
+.o
+.exe
+.pdf
+.docx
+.png
+.jpg
+.jpeg
