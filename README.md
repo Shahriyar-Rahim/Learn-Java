@@ -3,7 +3,4 @@ er
 CZ
 l
 s
-g
-g
-sd
 sd
