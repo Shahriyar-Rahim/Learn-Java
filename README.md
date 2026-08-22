@@ -1,8 +1,2 @@
-sdrhjava
-er
-CZ
-l
-s
-g
-g
+hi
 sd
