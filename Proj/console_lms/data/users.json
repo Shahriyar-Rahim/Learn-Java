@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ADM-1001",
+    "username": "shahriyar",
+    "passwordHash": "PBKDF2$65536$GrLAnu2ExzkETl8LMLNAzQ==$TpNCp0l9f/Fit7Bd2//2pIUI6qHZwBYrrLSTyxnQyEA=",
+    "fullName": "Md. Shahriyar Rahim",
+    "email": "mdshahriyarrahim@gmail.com",
+    "phone": "+8801748828453",
+    "role": "ADMIN",
+    "state": "APPROVED",
+    "createdAt": "2026-10-03T14:45:53.216697743",
+    "updatedAt": "2026-10-03T14:45:53.216722188"
+  }
+]

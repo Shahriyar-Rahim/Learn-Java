@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BK-1001",
+    "isbn": "3443231142142",
+    "title": "Lean Java",
+    "description": "A breif learning material for java",
+    "authorIds": [],
+    "sectionId": "",
+    "publisher": "Shahriyar Rahim",
+    "publicationDate": "2026-06-08",
+    "language": "Bangla",
+    "edition": "1st",
+    "archived": false,
+    "createdAt": "2026-10-03T14:50:04.170022313",
+    "updatedAt": "2026-10-03T14:50:04.170050105"
+  }
+]

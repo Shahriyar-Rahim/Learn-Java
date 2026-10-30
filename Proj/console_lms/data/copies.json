@@ -1,0 +1,29 @@
+[
+  {
+    "copyId": "CPY-1001-1001",
+    "bookId": "BK-1001",
+    "status": "AVAILABLE",
+    "location": "CSE Stacks",
+    "condition": "GOOD",
+    "acquisitionDate": "2026-10-03",
+    "notes": ""
+  },
+  {
+    "copyId": "CPY-1001-1002",
+    "bookId": "BK-1001",
+    "status": "AVAILABLE",
+    "location": "CSE Stacks",
+    "condition": "GOOD",
+    "acquisitionDate": "2026-10-03",
+    "notes": ""
+  },
+  {
+    "copyId": "CPY-1001-1003",
+    "bookId": "BK-1001",
+    "status": "AVAILABLE",
+    "location": "CSE Stacks",
+    "condition": "GOOD",
+    "acquisitionDate": "2026-10-03",
+    "notes": ""
+  }
+]

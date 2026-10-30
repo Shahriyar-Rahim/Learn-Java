@@ -1,0 +1,38 @@
+[
+  {
+    "id": "LOG-1004",
+    "timestamp": "2026-10-03T14:50:04.201098387",
+    "action": "BOOK_CREATED",
+    "performedBy": "shahriyar",
+    "targetEntity": "BOOK",
+    "details": "Created book 'Lean Java' (BK-1001) with 3 copies",
+    "success": true
+  },
+  {
+    "id": "LOG-1002",
+    "timestamp": "2026-10-03T14:46:54.77675742",
+    "action": "LOGIN_SUCCESS",
+    "performedBy": "shahriyar",
+    "targetEntity": "AUTH",
+    "details": "Logged in with role ADMIN",
+    "success": true
+  },
+  {
+    "id": "LOG-1003",
+    "timestamp": "2026-10-03T14:50:04.191498729",
+    "action": "COPIES_ADDED",
+    "performedBy": "shahriyar",
+    "targetEntity": "BOOK_COPY",
+    "details": "Added 3 copies to book BK-1001",
+    "success": true
+  },
+  {
+    "id": "LOG-1001",
+    "timestamp": "2026-10-03T14:45:53.22888902",
+    "action": "FIRST_ADMIN_SETUP",
+    "performedBy": "shahriyar",
+    "targetEntity": "USER",
+    "details": "Created initial administrator ID ADM-1001",
+    "success": true
+  }
+]
